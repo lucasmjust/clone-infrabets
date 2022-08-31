@@ -1,4 +1,4 @@
-# mainoto
+# Clone infrabets
 
 ## Project setup
 ```
