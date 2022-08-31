@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu:wght@300;400;600;700&display=swap');
+
+*{
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
